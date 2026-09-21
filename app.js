@@ -2248,7 +2248,7 @@ function heroChart() {
   const step = (W - pl - pr) / n;
   const X = i => pl + (i + 0.5) * step, Y = v => pt + (mx - v) / (mx - mn) * (H - pt - pb);
   const f = v => v.toFixed(1);
-  let s = `<svg class="hv-chart" viewBox="0 0 ${W} ${H}" fill="none" aria-hidden="true" focusable="false"><defs><linearGradient id="hg" x1="0" x2="1"><stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#c084fc"/></linearGradient><linearGradient id="hf" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#22d3ee" stop-opacity=".26"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></linearGradient></defs>`;
+  let s = `<svg class="hv-chart" viewBox="0 0 ${W} ${H}" fill="none" aria-hidden="true" focusable="false"><defs><linearGradient id="hg" x1="0" x2="1"><stop offset="0" stop-color="#D8BF8A"/><stop offset="1" stop-color="#9E7D45"/></linearGradient><linearGradient id="hf" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#C9A96E" stop-opacity=".26"/><stop offset="1" stop-color="#C9A96E" stop-opacity="0"/></linearGradient></defs>`;
   for (let k = 1; k <= 4; k++) s += `<line x1="${pl}" x2="${W - pr}" y1="${f(pt + k * (H - pt - pb) / 5)}" y2="${f(pt + k * (H - pt - pb) / 5)}" stroke="rgba(255,255,255,.07)"/>`;
   const line = ser.map((v, i) => f(X(i)) + ',' + f(Y(v))).join(' ');
   s += `<polygon points="${f(X(0))},${H - pb} ${line} ${f(X(n - 1))},${H - pb}" fill="url(#hf)" class="hv-area"/>`;
