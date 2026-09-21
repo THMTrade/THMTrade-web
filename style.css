@@ -568,6 +568,16 @@ body.nav-open .nav-scrim { opacity: 1; visibility: visible; }
 .chart-anat .cd rect { opacity: .95; }
 .chart-one { max-width: 360px; margin-inline: auto; }
 
+/* Pages légales */
+.legal { padding: clamp(1.25rem, 4vw, 2.25rem); }
+.legal-sec + .legal-sec { margin-top: 1.9rem; }
+.legal h2 { display: flex; gap: .55rem; align-items: baseline; font-size: 1.25rem; margin-bottom: .7rem; }
+.legal h2 span { color: var(--a1); }
+.legal p, .legal li { color: var(--ink-2); }
+.legal .modal-actions { justify-content: flex-start; margin-top: 2rem; }
+.todo { padding: .05em .45em; border-radius: 6px; background: rgba(251, 191, 36, .18); border: 1px dashed rgba(251, 191, 36, .6); color: #fcd34d; font-weight: 600; }
+.legal-links { display: flex; flex-wrap: wrap; gap: .6rem; margin-top: 1.25rem; }
+
 /* 19. ANIMATIONS ------------------------------------------------------------------------- */
 @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
 @keyframes fadeOut { from { opacity: 1; } to { opacity: 0; } }
