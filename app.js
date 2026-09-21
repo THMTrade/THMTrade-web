@@ -208,7 +208,7 @@ fr: {
   'nav.lexicon': 'Lexique', 'nav.courses': 'Cours', 'nav.patterns': 'Patterns', 'nav.practice': 'Practice', 'nav.tools': 'Outils', 'nav.premium': 'Premium',
   'lang.aria': 'Langue', 'menu': 'Menu',
   'foot.tag': 'Comprends les marchés. Construis ta méthode.', 'foot.platform': 'Plateforme', 'foot.info': 'Informations', 'foot.faq': 'FAQ',
-  'foot.risk': 'Avertissement sur les risques', 'foot.data': 'Données et stockage local', 'foot.reset': 'Réinitialiser ma progression', 'foot.copy': 'Plateforme éducative.',
+  'foot.risk': 'Avertissement sur les risques', 'foot.reset': 'Réinitialiser ma progression', 'foot.copy': 'Plateforme éducative.',
   'risk.short': "Le trading comporte des risques, y compris la perte de tout ou partie du capital. THMTrade est une plateforme éducative : aucun contenu ne constitue un conseil financier, un signal ou une promesse de gain.",
 
   'close': 'Fermer', 'cancel': 'Annuler', 'understood': 'Compris', 'more': 'Voir la fiche', 'min': '{n} min', 'progress': 'Progression', 'crumbs': "Fil d'Ariane",
@@ -320,15 +320,18 @@ fr: {
   'pmm.h': "Le Premium n'est pas encore ouvert", 'pmm.p1': "L'essai gratuit de 3 jours sera proposé lorsque les comptes et le paiement seront disponibles. Pour l'instant, rien n'est facturé et aucune carte bancaire n'est demandée.",
   'pmm.p2': 'En attendant, tout le contenu est accessible librement :', 'pmm.a': 'Cinq cours, dont les contenus marqués Premium', 'pmm.b': 'Lexique, patterns et Practice', 'pmm.c': 'Outils et calculateurs',
 
+  'foot.legal': 'Mentions légales', 'foot.terms': "Conditions d'utilisation", 'foot.privacy': 'Politique de confidentialité',
+  'legal.updated': 'Dernière mise à jour : {d}', 'legal.todo': 'À compléter : {f}', 'legal.other': 'Autres pages légales',
+  'legal.f.publisher': 'nom de l\'éditeur', 'legal.f.status': 'statut', 'legal.f.registration': "numéro d'immatriculation", 'legal.f.address': 'adresse', 'legal.f.email': 'e-mail',
+  'legal.meta.mentions.t': 'Mentions légales', 'legal.meta.mentions.d': "Mentions légales de THMTrade : éditeur, hébergeur, propriété intellectuelle et avertissement sur les risques du trading.",
+  'legal.meta.conditions.t': "Conditions d'utilisation", 'legal.meta.conditions.d': "Conditions d'utilisation de THMTrade, plateforme éducative sur le trading : nature du service, responsabilité et propriété intellectuelle.",
+  'legal.meta.confidentialite.t': 'Politique de confidentialité', 'legal.meta.confidentialite.d': "Politique de confidentialité de THMTrade : données enregistrées sur ton appareil, hébergement, contact et droits.",
   'faq.h1': 'Foire aux questions', 'faq.lead': 'Les réponses aux questions les plus courantes sur THMTrade.',
   'nf.h1': 'Page introuvable', 'nf.lead': "Cette adresse ne correspond à aucune page de THMTrade. Utilise le menu ou l'un des liens ci-dessous.",
   'rk.p1': "Le trading de produits financiers (Forex, crypto-actifs, actions, indices, produits dérivés) comporte un risque élevé de perte, pouvant aller jusqu'à la totalité du capital investi, et davantage avec certains produits à effet de levier.",
   'rk.p2': "Les performances passées ne préjugent pas des performances futures. Les exemples, graphiques et calculs de THMTrade sont fictifs et pédagogiques.",
   'rk.p3': "THMTrade est une plateforme éducative. Elle ne fournit aucun conseil en investissement personnalisé, aucun signal et aucune garantie de résultat.",
   'rk.p4': "Ne risque jamais d'argent dont tu as besoin. Avant de trader, renseigne-toi sur les produits, les frais et la réglementation de ton pays, et consulte au besoin un professionnel agréé.",
-  'pv.p1': 'Cette version de THMTrade fonctionne sans serveur ni compte utilisateur. Voici ce qui est enregistré, uniquement dans ton navigateur (localStorage) :',
-  'pv.a': 'les leçons terminées et tes scores de quiz', 'pv.b': 'tes résultats de Practice', 'pv.c': 'ta langue préférée', 'pv.d': 'la dernière leçon consultée',
-  'pv.p2': "Ces données ne quittent pas ton appareil, ne sont pas synchronisées entre appareils et disparaissent si tu vides les données de ton navigateur. Les liens externes mènent vers des sites tiers qui ont leurs propres règles.",
   'reset.h': 'Réinitialiser ta progression ?', 'reset.p': 'Les leçons terminées, les scores de quiz et les résultats de Practice seront effacés de ce navigateur. Ta langue est conservée. Cette action est définitive.', 'reset.ok': 'Tout effacer', 'reset.done': 'Progression réinitialisée.',
 
   'meta.home.t': 'THMTrade — Apprendre le trading : cours, lexique, patterns et practice', 'meta.home.d': "THMTrade est une plateforme éducative pour apprendre le trading : cours débutant, lexique trading, analyse technique, patterns graphiques, gestion du risque, Forex, crypto, actions et indices.",
@@ -346,7 +349,7 @@ en: {
   'nav.lexicon': 'Glossary', 'nav.courses': 'Courses', 'nav.patterns': 'Patterns', 'nav.practice': 'Practice', 'nav.tools': 'Tools', 'nav.premium': 'Premium',
   'lang.aria': 'Language', 'menu': 'Menu',
   'foot.tag': 'Learn. Analyze. Trade smarter.', 'foot.platform': 'Platform', 'foot.info': 'Information', 'foot.faq': 'FAQ',
-  'foot.risk': 'Risk warning', 'foot.data': 'Data and local storage', 'foot.reset': 'Reset my progress', 'foot.copy': 'Educational platform.',
+  'foot.risk': 'Risk warning', 'foot.reset': 'Reset my progress', 'foot.copy': 'Educational platform.',
   'risk.short': 'Trading involves risk, including the loss of all or part of your capital. THMTrade is an educational platform: no content is financial advice, a signal or a promise of gains.',
 
   'close': 'Close', 'cancel': 'Cancel', 'understood': 'Got it', 'more': 'Open entry', 'min': '{n} min', 'progress': 'Progress', 'crumbs': 'Breadcrumb',
@@ -458,15 +461,18 @@ en: {
   'pmm.h': 'Premium is not open yet', 'pmm.p1': 'The 3-day free trial will be offered once accounts and payment are available. For now nothing is billed and no bank card is requested.',
   'pmm.p2': 'In the meantime, all content is freely accessible:', 'pmm.a': 'Five courses, including content marked Premium', 'pmm.b': 'Glossary, patterns and Practice', 'pmm.c': 'Tools and calculators',
 
+  'foot.legal': 'Legal notice', 'foot.terms': 'Terms of use', 'foot.privacy': 'Privacy policy',
+  'legal.updated': 'Last updated: {d}', 'legal.todo': 'To complete: {f}', 'legal.other': 'Other legal pages',
+  'legal.f.publisher': 'publisher name', 'legal.f.status': 'status', 'legal.f.registration': 'registration number', 'legal.f.address': 'address', 'legal.f.email': 'email',
+  'legal.meta.mentions.t': 'Legal notice', 'legal.meta.mentions.d': 'THMTrade legal notice: publisher, host, intellectual property and trading risk warning.',
+  'legal.meta.conditions.t': 'Terms of use', 'legal.meta.conditions.d': 'THMTrade terms of use, an educational trading platform: nature of the service, liability and intellectual property.',
+  'legal.meta.confidentialite.t': 'Privacy policy', 'legal.meta.confidentialite.d': 'THMTrade privacy policy: data stored on your device, hosting, contact and rights.',
   'faq.h1': 'Frequently asked questions', 'faq.lead': 'Answers to the most common questions about THMTrade.',
   'nf.h1': 'Page not found', 'nf.lead': 'This address does not match any THMTrade page. Use the menu or one of the links below.',
   'rk.p1': 'Trading financial products (Forex, crypto-assets, stocks, indices, derivatives) carries a high risk of loss, up to the entire capital invested, and more with some leveraged products.',
   'rk.p2': 'Past performance does not predict future performance. THMTrade examples, charts and calculations are fictional and educational.',
   'rk.p3': 'THMTrade is an educational platform. It provides no personalised investment advice, no signals and no guarantee of results.',
   'rk.p4': 'Never risk money you need. Before trading, learn about the products, fees and regulation in your country, and consult a licensed professional if needed.',
-  'pv.p1': 'This version of THMTrade works without a server or user account. Here is what is saved, only in your browser (localStorage):',
-  'pv.a': 'completed lessons and quiz scores', 'pv.b': 'your Practice results', 'pv.c': 'your preferred language', 'pv.d': 'the last lesson viewed',
-  'pv.p2': 'This data never leaves your device, is not synced across devices and disappears if you clear your browser data. External links lead to third-party sites with their own rules.',
   'reset.h': 'Reset your progress?', 'reset.p': 'Completed lessons, quiz scores and Practice results will be erased from this browser. Your language is kept. This cannot be undone.', 'reset.ok': 'Erase everything', 'reset.done': 'Progress reset.',
 
   'meta.home.t': 'THMTrade — Learn trading: courses, glossary, patterns and practice', 'meta.home.d': 'THMTrade is an educational platform to learn trading: beginner courses, trading glossary, technical analysis, chart patterns, risk management, Forex, crypto, stocks and indices.',
@@ -2874,21 +2880,160 @@ function riskModalHTML() {
     <p>${t('rk.p1')}</p><p>${t('rk.p2')}</p><p>${t('rk.p3')}</p><p>${t('rk.p4')}</p>
     <div class="modal-actions"><button type="button" class="btn btn-primary btn-sm" data-action="close-modal" data-autofocus>${t('understood')}</button></div>`;
 }
-function privacyModalHTML() {
-  return `<h2 id="modal-title">${icon('lock')}${t('foot.data')}</h2>
-    <p>${t('pv.p1')}</p>
-    <ul class="tick-list">${['a', 'b', 'c', 'd'].map(k => `<li>${icon('check')}<span>${t('pv.' + k)}</span></li>`).join('')}</ul>
-    <p>${t('pv.p2')}</p>
-    <div class="modal-actions">
-      <button type="button" class="btn btn-ghost btn-sm" data-action="reset-progress">${icon('refresh')}${t('foot.reset')}</button>
-      <button type="button" class="btn btn-primary btn-sm" data-action="close-modal" data-autofocus>${t('understood')}</button>
-    </div>`;
+
+/* =====================================================================
+   13b. PAGES LÉGALES — mentions légales, conditions, confidentialité
+   Les informations de l'éditeur viennent de config.js (window.THM_CONFIG).
+   Les champs vides s'affichent en jaune « À compléter ».
+   ===================================================================== */
+const CFG = window.THM_CONFIG || {};
+const LEGAL_VALUES = {
+  publisher: CFG.publisherName, status: CFG.publisherStatus, registration: CFG.registration,
+  address: CFG.address, email: CFG.contactEmail || 'thmpro.officiel@gmail.com'
+};
+function legalVal(k) {
+  const v = LEGAL_VALUES[k];
+  if (v && String(v).trim()) {
+    return k === 'email' ? `<a href="mailto:${esc(v)}">${esc(v)}</a>` : esc(v);
+  }
+  return `<span class="todo">${t('legal.todo', { f: tr('legal.f.' + k) })}</span>`;
+}
+const legalFill = html => html.replace(/\{(publisher|status|registration|address|email)\}/g, (_, k) => legalVal(k));
+
+const LEGAL = {
+  mentions: {
+    t: T('Mentions légales', 'Legal notice'),
+    s: [
+      { h: T('Éditeur du site', 'Site publisher'),
+        p: [T("Le site THMTrade est édité par {publisher}, {status}, {registration}.", "The THMTrade website is published by {publisher}, {status}, {registration}."),
+            T("Adresse : {address}.", "Address: {address}."),
+            T("Contact : {email}.", "Contact: {email}."),
+            T("Directeur de la publication : {publisher}.", "Publication director: {publisher}.")] },
+      { h: T('Hébergement', 'Hosting'),
+        p: [T("Le site est hébergé par GitHub, Inc. (service GitHub Pages), 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, États-Unis.", "The site is hosted by GitHub, Inc. (GitHub Pages service), 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, United States.")] },
+      { h: T('Nature du site et avertissement', 'Nature of the site and warning'),
+        p: [T("THMTrade est une plateforme éducative consacrée à l'apprentissage du trading. Elle ne fournit aucun conseil en investissement personnalisé, aucun signal et aucune recommandation d'achat ou de vente, et ne garantit aucun résultat. L'éditeur n'agit pas en tant que conseiller en investissements financiers ni prestataire de services d'investissement.",
+              "THMTrade is an educational platform dedicated to learning trading. It provides no personalised investment advice, no signals and no buy or sell recommendations, and guarantees no result. The publisher does not act as a financial investment adviser or investment services provider."),
+            T("Le trading comporte un risque élevé de perte, pouvant aller jusqu'à la totalité du capital investi. Les performances passées ne préjugent pas des performances futures.",
+              "Trading carries a high risk of loss, up to the entire capital invested. Past performance does not predict future performance.")] },
+      { h: T('Données et graphiques', 'Data and charts'),
+        p: [T("Les graphiques, exemples chiffrés et calculs présentés sur le site sont des illustrations pédagogiques fictives. Ils ne représentent aucun marché réel et ne constituent pas une analyse de marché.",
+              "The charts, numerical examples and calculations shown on the site are fictional educational illustrations. They do not represent any real market and are not a market analysis.")] },
+      { h: T('Propriété intellectuelle', 'Intellectual property'),
+        p: [T("L'ensemble des contenus du site (textes, illustrations, graphiques, code, structure, logo et nom THMTrade) est protégé par les règles applicables en matière de propriété intellectuelle. Toute reproduction, représentation ou réutilisation, totale ou partielle, sans autorisation écrite préalable de l'éditeur est interdite, hors courtes citations avec mention de la source.",
+              "All site content (texts, illustrations, charts, code, structure, logo and the THMTrade name) is protected by the applicable intellectual property rules. Any total or partial reproduction, representation or reuse without the publisher's prior written permission is prohibited, apart from short quotations citing the source."),
+            T("TradingView, Investing.com et CoinGecko sont des marques ou noms appartenant à leurs propriétaires respectifs. THMTrade n'est affilié à aucun d'entre eux.",
+              "TradingView, Investing.com and CoinGecko are trademarks or names belonging to their respective owners. THMTrade is not affiliated with any of them.")] },
+      { h: T('Liens externes', 'External links'),
+        p: [T("Le site contient des liens vers des sites tiers. L'éditeur n'exerce aucun contrôle sur ces sites et n'est pas responsable de leur contenu, de leurs offres ni de leurs pratiques.",
+              "The site contains links to third-party sites. The publisher has no control over these sites and is not responsible for their content, offers or practices.")] },
+      { h: T('Droit applicable', 'Applicable law'),
+        p: [T("Le site est édité depuis la Polynésie française. Le droit applicable et les juridictions compétentes sont ceux de la Polynésie française, sous réserve des règles impératives protégeant les consommateurs dans leur pays de résidence.",
+              "The site is published from French Polynesia. The applicable law and competent courts are those of French Polynesia, subject to mandatory rules protecting consumers in their country of residence.")] }
+    ]
+  },
+
+  conditions: {
+    t: T("Conditions d'utilisation", 'Terms of use'),
+    s: [
+      { h: T('Objet et acceptation', 'Purpose and acceptance'),
+        p: [T("Les présentes conditions encadrent l'utilisation du site THMTrade. En utilisant le site, tu reconnais les avoir lues et acceptées. Si tu ne les acceptes pas, merci de ne pas utiliser le site.",
+              "These terms govern the use of the THMTrade website. By using the site you acknowledge having read and accepted them. If you do not accept them, please do not use the site.")] },
+      { h: T('Nature éducative du service', 'Educational nature of the service'),
+        p: [T("THMTrade est une plateforme éducative. Les contenus (cours, quiz, lexique, patterns, exercices, outils, calculateurs) sont fournis à titre d'information et de formation. Ils ne constituent ni un conseil financier personnalisé, ni une recommandation d'investissement, ni un signal, ni une promesse de gain.",
+              "THMTrade is an educational platform. The content (courses, quizzes, glossary, patterns, exercises, tools, calculators) is provided for information and training purposes. It is neither personalised financial advice, nor an investment recommendation, nor a signal, nor a promise of gains.")] },
+      { h: T('Accès au service et Premium', 'Access to the service and Premium'),
+        p: [T("Dans la version actuelle, l'accès au site est gratuit et ne nécessite aucun compte. Le Premium est présenté à titre d'aperçu : aucun paiement n'est possible et aucun abonnement n'est proposé.",
+              "In the current version, access to the site is free and requires no account. Premium is shown as a preview: no payment is possible and no subscription is offered."),
+            T("Si une offre payante est lancée, des conditions de vente spécifiques (prix, durée, essai gratuit, résiliation, droit de rétractation le cas échéant) seront publiées et devront être acceptées avant tout achat.",
+              "If a paid offer is launched, specific terms of sale (price, duration, free trial, cancellation, right of withdrawal where applicable) will be published and must be accepted before any purchase.")] },
+      { h: T('Responsabilité en matière de trading', 'Responsibility for trading'),
+        p: [T("Tu es seul responsable de tes décisions d'investissement et de trading. L'éditeur ne peut être tenu responsable des pertes ou dommages résultant de l'utilisation des contenus du site, y compris des exemples, exercices et calculateurs, qui sont simplifiés et fictifs.",
+              "You are solely responsible for your investment and trading decisions. The publisher cannot be held liable for losses or damages resulting from the use of the site's content, including examples, exercises and calculators, which are simplified and fictional."),
+            T("Ne risque jamais d'argent dont tu as besoin. Renseigne-toi sur les produits, les frais et la réglementation de ton pays, et consulte au besoin un professionnel agréé.",
+              "Never risk money you need. Learn about the products, fees and regulation in your country, and consult a licensed professional if needed.")] },
+      { h: T('Utilisation autorisée', 'Permitted use'),
+        ul: [T("Utiliser le site pour ton apprentissage personnel et non commercial.", 'Use the site for your personal, non-commercial learning.'),
+             T("Ne pas copier, extraire de façon automatisée, revendre ou redistribuer les contenus sans autorisation écrite.", 'Do not copy, scrape, resell or redistribute the content without written permission.'),
+             T("Ne pas perturber le fonctionnement du site ni tenter d'y accéder de façon frauduleuse.", 'Do not disrupt the operation of the site or attempt to access it fraudulently.')] },
+      { h: T('Propriété intellectuelle', 'Intellectual property'),
+        p: [T("Les contenus de THMTrade sont protégés (voir les mentions légales). L'utilisation du site ne te confère aucun droit de propriété sur ces contenus, seulement un droit d'usage personnel.",
+              "THMTrade content is protected (see the legal notice). Using the site gives you no ownership rights over this content, only a personal right of use.")] },
+      { h: T('Progression enregistrée sur ton appareil', 'Progress saved on your device'),
+        p: [T("Ta progression (leçons terminées, scores, langue) est enregistrée dans le navigateur de ton appareil. Elle n'est pas sauvegardée sur un serveur : elle peut être perdue si tu vides les données de ton navigateur ou si tu changes d'appareil.",
+              "Your progress (completed lessons, scores, language) is saved in your device's browser. It is not backed up on a server: it can be lost if you clear your browser data or change device.")] },
+      { h: T('Disponibilité et exactitude', 'Availability and accuracy'),
+        p: [T("Le site est fourni « en l'état ». L'éditeur s'efforce de fournir des contenus exacts et à jour, mais ne garantit ni leur exhaustivité, ni leur absence d'erreur, ni la disponibilité continue du site, qui peut être modifié ou interrompu à tout moment. Ces limites s'appliquent sans préjudice des droits que la loi reconnaît impérativement aux consommateurs.",
+              "The site is provided “as is”. The publisher strives to provide accurate and up-to-date content but does not guarantee its completeness, freedom from errors or the continuous availability of the site, which may be modified or interrupted at any time. These limits apply without prejudice to the rights that the law mandatorily grants to consumers.")] },
+      { h: T('Liens externes', 'External links'),
+        p: [T("Les liens vers TradingView, Investing.com, CoinGecko ou d'autres sites mènent vers des services tiers soumis à leurs propres conditions. THMTrade n'en est pas affilié et n'en est pas responsable.",
+              "Links to TradingView, Investing.com, CoinGecko or other sites lead to third-party services subject to their own terms. THMTrade is not affiliated with them and is not responsible for them.")] },
+      { h: T('Modification des conditions', 'Changes to the terms'),
+        p: [T("Ces conditions peuvent évoluer, notamment avec l'ajout de comptes et de paiements. La date de dernière mise à jour figure en haut de la page.",
+              "These terms may change, in particular when accounts and payments are added. The date of the last update appears at the top of the page.")] },
+      { h: T('Droit applicable et contact', 'Applicable law and contact'),
+        p: [T("Le droit applicable et les juridictions compétentes sont ceux de la Polynésie française, sous réserve des règles impératives protégeant les consommateurs dans leur pays de résidence.",
+              "The applicable law and competent courts are those of French Polynesia, subject to mandatory rules protecting consumers in their country of residence."),
+            T("Pour toute question : {email}.", "For any question: {email}.")] }
+    ]
+  },
+
+  confidentialite: {
+    t: T('Politique de confidentialité', 'Privacy policy'),
+    s: [
+      { h: T('En résumé', 'In short'),
+        p: [T("Dans sa version actuelle, THMTrade fonctionne sans compte utilisateur et sans serveur propre. Le site ne collecte pas de données personnelles via des formulaires, ne dépose pas de cookies publicitaires et n'utilise aucun outil d'analyse d'audience.",
+              "In its current version, THMTrade works without user accounts and without its own server. The site does not collect personal data through forms, does not set advertising cookies and uses no audience analytics tool.")] },
+      { h: T('Données enregistrées sur ton appareil', 'Data stored on your device'),
+        p: [T("Pour fonctionner, le site enregistre les informations suivantes dans le stockage local (localStorage) de ton navigateur :",
+              "To work, the site stores the following information in your browser's local storage (localStorage):")],
+        ul: [T('les leçons terminées et tes scores de quiz', 'completed lessons and your quiz scores'),
+             T('tes résultats de Practice', 'your Practice results'),
+             T('ta langue préférée (français ou anglais)', 'your preferred language (French or English)'),
+             T('la dernière leçon consultée', 'the last lesson viewed')],
+        after: [T("Ces informations restent sur ton appareil : elles ne sont pas envoyées à THMTrade. Elles sont strictement nécessaires au fonctionnement du site (progression et langue). Tu peux les supprimer à tout moment avec le bouton ci-dessous ou en vidant les données de ton navigateur.",
+                  "This information stays on your device: it is not sent to THMTrade. It is strictly necessary for the site to work (progress and language). You can delete it at any time with the button below or by clearing your browser data.")] },
+      { h: T('Hébergement', 'Hosting'),
+        p: [T("Le site est hébergé par GitHub Pages (GitHub, Inc.). Comme tout hébergeur, GitHub peut traiter des données techniques liées à ta visite (par exemple l'adresse IP et des journaux de connexion) selon sa propre politique de confidentialité, à laquelle THMTrade n'a pas accès.",
+              "The site is hosted by GitHub Pages (GitHub, Inc.). Like any host, GitHub may process technical data related to your visit (for example your IP address and connection logs) under its own privacy policy, to which THMTrade has no access.")] },
+      { h: T('Contact par e-mail', 'Contact by email'),
+        p: [T("Si tu écris à {email}, l'éditeur reçoit ton adresse e-mail et le contenu de ton message. Ces informations sont utilisées uniquement pour te répondre et ne sont pas revendues ni transmises à des tiers à des fins commerciales.",
+              "If you write to {email}, the publisher receives your email address and the content of your message. This information is used only to reply to you and is not sold or passed to third parties for commercial purposes.")] },
+      { h: T('Sites tiers', 'Third-party sites'),
+        p: [T("Les liens externes (TradingView, Investing.com, CoinGecko…) mènent vers des sites qui ont leurs propres règles de confidentialité et de cookies. Consulte-les avant de les utiliser.",
+              "External links (TradingView, Investing.com, CoinGecko…) lead to sites that have their own privacy and cookie rules. Please read them before using those sites.")] },
+      { h: T('Tes droits', 'Your rights'),
+        p: [T("Tu peux demander l'accès, la rectification ou la suppression des données que tu nous aurais communiquées (par exemple par e-mail), ainsi que t'opposer à leur utilisation, en écrivant à {email}. Ces droits s'exercent selon la réglementation applicable, en particulier celle en vigueur en Polynésie française et, le cas échéant, le droit de l'Union européenne pour les personnes qui y résident.",
+              "You can request access, rectification or deletion of the data you may have sent us (for example by email), and object to its use, by writing to {email}. These rights are exercised under the applicable regulations, in particular those in force in French Polynesia and, where applicable, European Union law for people residing there.")] },
+      { h: T('Évolutions à venir', 'Upcoming changes'),
+        p: [T("Si THMTrade ajoute des comptes utilisateur, une base de données ou des paiements, de nouvelles données pourront être collectées (identifiants, informations de compte, données de paiement traitées par un prestataire spécialisé). Cette politique sera alors mise à jour avant leur mise en service.",
+              "If THMTrade adds user accounts, a database or payments, new data may be collected (identifiers, account information, payment data processed by a specialised provider). This policy will then be updated before they go live.")] }
+    ]
+  }
+};
+
+function viewLegal(key) {
+  const d = LEGAL[key];
+  let date = CFG.updated || '2026-09-20';
+  try { date = new Intl.DateTimeFormat(lang === 'fr' ? 'fr-FR' : 'en-US', { dateStyle: 'long', timeZone: 'UTC' }).format(new Date(date)); } catch (e) { /* date brute */ }
+  const paras = arr => (arr || []).map(p => `<p>${legalFill(tmd(p))}</p>`).join('');
+  const body = d.s.map((s, i) => `<section class="legal-sec"><h2><span>${i + 1}.</span>${tx(s.h)}</h2>${paras(s.p)}${s.ul ? `<ul class="les-list">${s.ul.map(li => `<li>${legalFill(tmd(li))}</li>`).join('')}</ul>` : ''}${paras(s.after)}</section>`).join('');
+  const links = ['mentions', 'conditions', 'confidentialite'].filter(k => k !== key).map(k => `<a class="chip-link" href="#${k}">${tx(LEGAL[k].t)}</a>`).join('');
+  const html = `<section class="page-head container narrow"><h1>${tx(d.t)}</h1><p class="lead">${t('legal.updated', { d: date })}</p></section>
+  <section class="section container narrow tight">
+    <article class="legal glass">${body}
+      ${key === 'confidentialite' ? `<div class="modal-actions"><button type="button" class="btn btn-ghost btn-sm" data-action="reset-progress">${icon('refresh')}${t('foot.reset')}</button></div>` : ''}
+    </article>
+    <nav class="legal-links" aria-label="${t('legal.other')}">${links}<a class="chip-link" href="#accueil">${icon('arrowL')}${t('nav.home')}</a></nav>
+  </section>`;
+  return { title: tr('legal.meta.' + key + '.t'), desc: tr('legal.meta.' + key + '.d'), html };
 }
 
 /* =====================================================================
    14. ROUTEUR (hash URLs, compatible GitHub Pages)
    #accueil #lexique #cours #cours/1 #cours/1/2 #patterns #pratique
-   #outils #premium #faq  (+ #lexique/<terme> et #patterns/<pattern>)
+   #outils #premium #faq #mentions #conditions #confidentialite
+   (+ #lexique/<terme> et #patterns/<pattern>)
    ===================================================================== */
 const NF = { view: 'nf', nav: null };
 function currentPath() {
@@ -2906,6 +3051,7 @@ function resolveRoute(parts) {
     case 'outils': return n === 1 ? { view: 'tools', nav: 'outils' } : NF;
     case 'premium': return n === 1 ? { view: 'premium', nav: 'premium' } : NF;
     case 'faq': return n === 1 ? { view: 'faq', nav: null } : NF;
+    case 'mentions': case 'conditions': case 'confidentialite': return n === 1 ? { view: 'legal', nav: null, key: name } : NF;
     case 'cours': {
       if (n === 1) return { view: 'courses', nav: 'cours' };
       const c = COURSE_BY_ID[parts[1]];
@@ -2929,6 +3075,7 @@ const VIEWS = {
   tools: () => viewTools(),
   premium: () => viewPremium(),
   faq: () => viewFaq(),
+  legal: r => viewLegal(r.key),
   nf: () => viewNotFound()
 };
 
@@ -3090,7 +3237,6 @@ const ACTIONS = {
     el.setAttribute('aria-expanded', open ? 'true' : 'false');
   },
   'open-risk'() { openModal(riskModalHTML(), { cls: 'modal-sm' }); },
-  'open-privacy'() { openModal(privacyModalHTML(), { cls: 'modal-sm' }); },
   'reset-progress'() { confirmModal({ title: tr('reset.h'), text: tr('reset.p'), ok: tr('reset.ok'), danger: true }, resetProgress); },
   'close-modal'() { closeModal(); },
   'modal-backdrop'(el, e) { if (e.target === el) closeModal(); },
